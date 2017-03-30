@@ -6,7 +6,7 @@ const Outer = styled.div`
    width: fit-content;
 
    >label {
-       color: green;
+       color: red;
    }
 `
 
