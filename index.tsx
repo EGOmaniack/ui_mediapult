@@ -1,3 +1,7 @@
-import * as checkbox from "checkbox";
+import {Checkbox} from "./checkbox"
+import {Newcheckbox} from "./newcheckbox"
 
-export checkbox;
+export {
+    Checkbox,
+    Newcheckbox
+}
